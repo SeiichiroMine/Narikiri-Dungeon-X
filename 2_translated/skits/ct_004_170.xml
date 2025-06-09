@@ -32,81 +32,85 @@
       <PointerOffset>37144</PointerOffset>
       <VoiceId>VCT_004_170_001</VoiceId>
       <JapaneseText>よし！　次はこっちのコスチュームを着て……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right! I should change into this costume next...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38092</PointerOffset>
       <VoiceId>VCT_004_170_002</VoiceId>
       <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;、頑張ってるだなぁ。いっぱい着替えまくっで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You sure are working hard, &lt;Mel&gt;. 
+You've been changing clothes a lot.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38816</PointerOffset>
       <VoiceId>VCT_004_170_003</VoiceId>
       <JapaneseText>わたしの力が役立つなら、
 精いっぱいやらないと！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to use my power to help everyone,
+which is why I have to try my best.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39240</PointerOffset>
       <VoiceId>VCT_004_170_004</VoiceId>
       <JapaneseText>すんばらしーだ。おら感動で、目から汗が出てきたど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How magnificent! Your words move me
+so much I feel my eyes sweating...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40028</PointerOffset>
       <VoiceId>VCT_004_170_005</VoiceId>
       <JapaneseText>アルベルトさんだって、頑張って、くれてるじゃない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But you're doing your best too, Albert.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40544</PointerOffset>
       <VoiceId>VCT_004_170_006</VoiceId>
       <JapaneseText>……と、よし！　着替え終わった。
 じゃ、行ってきまーす！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And done! Wish me luck!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42088</PointerOffset>
       <VoiceId>VCT_004_170_007</VoiceId>
       <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;の着替えを毎回手伝えるなら、
 おらは何百着だって持つだーよ。うふ∀</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>If I were able to help &lt;Mel&gt; change every time,
+I'd keep hundreds of outfits on hand. ∀</EnglishText>
+      <Notes>need third party</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

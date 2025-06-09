@@ -48,116 +48,121 @@
       <PointerOffset>37360</PointerOffset>
       <VoiceId>VCT_004_167_001</VoiceId>
       <JapaneseText>やった！　やったぜ、ついに！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yay! Finally!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38024</PointerOffset>
       <VoiceId>VCT_004_167_002</VoiceId>
       <JapaneseText>クルルン！　クルルン！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Coorooroon! Coorooroon!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38364</PointerOffset>
       <VoiceId>VCT_004_167_003</VoiceId>
       <JapaneseText>すごいね、&lt;Dio&gt;！
 全コスチュームをマスターするなんて！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa, that's so cool &lt;Dio&gt;!
+You've mastered all costumes...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38960</PointerOffset>
       <VoiceId>VCT_004_167_004</VoiceId>
       <JapaneseText>へへ〜〜〜ん、オレに掛かりゃ、こんなもんだっての</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehe~ All a piece of cake!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39476</PointerOffset>
       <VoiceId>VCT_004_167_005</VoiceId>
       <JapaneseText>見たか！　このタンス野郎が！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did you see that, you enlarged cabinet?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40288</PointerOffset>
       <VoiceId>VCT_004_167_006</VoiceId>
       <JapaneseText>へん、すごすぎて、言葉もないってか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, nothing to say? Awed by my magnificence?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41024</PointerOffset>
       <VoiceId>VCT_004_167_007</VoiceId>
       <JapaneseText>ったく、ギャーギャーうるせーのがおるだ。
 そったらことで大騒ぎするなんて、器が小せぇ証拠だど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Blah, blah, blah, stop yapping! 
+Only wimps let something this small inflate their ego.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42788</PointerOffset>
       <VoiceId>VCT_004_167_008</VoiceId>
       <JapaneseText>おらだったら、サラッと流すだーよ。
 大人っていうのは、そういうもんだ、ふん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Personally, I'd just let it be.
+I am an adult, after all.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43924</PointerOffset>
       <VoiceId>VCT_004_167_009</VoiceId>
       <JapaneseText>へん！　くやしくてしょうがねーって、
 顔に書いてあんぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehe, I can see it in your face, wardrobe. You're 
+frustrated, but you can't do anything about it!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44528</PointerOffset>
       <VoiceId>VCT_004_167_010</VoiceId>
       <JapaneseText>だ！　え？　ど、ど、どったらとこに、書いてあるだ！
 け、け、け、消す、今すぐ消すだ！　早く、早く！　ど、どこ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>M-Me!? Frustrated? Wh-Where on my face?
+I-Is there an e-eraser somewhere? Eraser...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
